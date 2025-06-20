@@ -41,12 +41,13 @@ namespace ExceptionHandlingExercise
                 {
                     Console.WriteLine(item);
                 }
+            }
 
-                foreach (var number in numbers)
+            foreach (var number in numbers)
                 {
                     Console.WriteLine(number);
                 }
-            }
+            
         }
     }
 }
